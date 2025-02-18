@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-** What is the Agenda? **
+**What is the Agenda?**
 
-** What's need to be Done? **
+**What's need to be Done?**
 
-** Definition of Done. **
+**Definition of Done.**
