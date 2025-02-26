@@ -42,3 +42,6 @@ Key features of Flask:
 - Session management and request/response handling
 - Integration with various databases and authentication systems
 
+## Architecture Diagram
+
+![alt text](<Architecture Diagram.png>)
